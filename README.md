@@ -195,3 +195,6 @@ This project is **open-source** and available under the **MIT License**.
 
 ### 🔹 Command Execution  
 ![Command](screenshots/command.PNG)  
+
+### 🔹 pgAdmin4 Screenshot of SQL Execution  
+!(screenshots/pgAdmin.PNG)  
