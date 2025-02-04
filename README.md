@@ -178,3 +178,20 @@ bookstore/
 
 ## **📜 License**
 This project is **open-source** and available under the **MIT License**.
+
+---
+
+
+## 📸 Screenshots & Screen Recordings  
+
+### 🔹 First Command Execution  
+![First Command](screenshots/firstCommand.PNG)  
+
+### 🔹 Screen Recording 1  
+[![2025-02-04-19-45-29](screenshots/2025-02-04-19-45-29.mp4)](screenshots/2025-02-04-19-45-29.mp4)  
+
+### 🔹 Screen Recording 2  
+[![2025-02-04-19-50-08](screenshots/2025-02-04-19-50-08.mp4)](screenshots/2025-02-04-19-50-08.mp4)  
+
+### 🔹 Command Execution  
+![Command](screenshots/command.PNG)  
